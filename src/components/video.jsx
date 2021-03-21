@@ -1,0 +1,44 @@
+const videos=[
+    {
+        id:1,
+        src:"https://www.youtube.com/embed/KRQb74Cr9N0?autoplay=1"
+    },
+    {
+        id:2,
+        src:"https://www.youtube.com/embed/LcDQqGJG8pA?autoplay=1"
+    },
+    {
+        id:3,
+        src:"https://www.youtube.com/embed/8sXTfzaLmiQ?autoplay=1"
+    },
+    {
+        id:4,
+        src:"https://www.youtube.com/embed/rzSjOGxl6Sc?autoplay=1"
+    },
+    {
+        id:5,
+        src:"https://www.youtube.com/embed/QsacpJwXCO8?autoplay=1"
+    },
+    {
+        id:6,
+        src:"https://www.youtube.com/embed/Me0eoCwLj-A?autoplay=1"
+    },
+    {
+        id:7,
+        src:"https://www.youtube.com/embed/k5TQidx2WkI?autoplay=1"
+    },
+    {
+        id:8,
+        src:"https://www.youtube.com/embed/yGgbNCkJqSM?autoplay=1"
+    },
+    {
+        id:9,
+        src:"https://www.youtube.com/embed/dfXRud1AIiw?autoplay=1"
+    },
+    {
+        id:10,
+        src:"https://www.youtube.com/embed/-cA7kwBSUaU?autoplay=1"
+    }
+]
+
+export default videos;
